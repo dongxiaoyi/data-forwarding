@@ -1,6 +1,6 @@
 # 说明文档
 
-> 基于https://github.com/childe/gohangout，做了点定制,具体操作请参见作者原项目。
+> 基于https://github.com/childe/gohangout  做了点定制,具体操作请参见作者原项目。
 
 增加：
 - output插件kafka：可使用账号密码连接。
