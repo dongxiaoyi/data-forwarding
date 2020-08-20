@@ -4,7 +4,7 @@
 
 增加：
 - output插件kafka：可使用账号密码连接。
-- output插件tcp：使用压缩后加密传输。
+- output插件tcp：数据压缩后加密传输。
 - input插件tcp：加密数据解密后解压缩。
 
 
